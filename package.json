@@ -3,5 +3,6 @@
   "license": "MIT",
   "main": "",
   "name": "@types/redux-batched-subscribe",
-  "typeScriptVersion": "2.2"
+  "typeScriptVersion": "2.2",
+  "version": "0.0.1"
 }
